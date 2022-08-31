@@ -12,6 +12,8 @@ function isPalindrome(word) {
 
 }
 
+phase-1-algorithms-palindrome-solution-2
+
 
 /* 
   Add your pseudocode here
